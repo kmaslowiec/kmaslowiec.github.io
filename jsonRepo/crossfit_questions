@@ -1,0 +1,1056 @@
+[
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What is CrossFit?",
+        "category": "Basic Knowledge",
+        "answer": "A high-intensity fitness training program",
+        "choices": [
+            "A high-intensity fitness training program",
+            "A diet plan",
+            "A brand of sportswear",
+            "A type of yoga"
+        ]
+    },
+    {
+        "question": "What is a typical equipment used in CrossFit?",
+        "category": "Types of Exercises",
+        "answer": "Kettlebell",
+        "choices": [
+            "Treadmill",
+            "Yoga Mat",
+            "Kettlebell",
+            "StairMaster"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "CrossFit is a combination of which of the following?",
+        "category": "Basic Knowledge",
+        "answer": "Weightlifting, aerobic exercise, and high-intensity functional movements",
+        "choices": [
+            "Weightlifting, aerobic exercise, and high-intensity functional movements",
+            "Meditation, stretching, and balance",
+            "Cycling, swimming, and running",
+            "Dancing, singing, and acting"
+        ]
+    },
+    {
+        "question": "What does WOD stand for?",
+        "category": "Abbreviation",
+        "answer": "Workout of the Day",
+        "choices": [
+            "Workout of the Day",
+            "Weight of Dumbbells",
+            "World of Deadlifts",
+            "Wings on Deck"
+        ]
+    },
+    {
+        "question": "EMOM stands for Every Minute On the Minute.",
+        "category": "Abbreviation",
+        "answer": "True",
+        "choices": [
+            "True",
+            "False"
+        ]
+    },
+    {
+        "question": "What does EMOM stand for?",
+        "category": "Abbreviation",
+        "answer": "Every Minute On the Minute",
+        "choices": [
+            "Every Minute On the Minute",
+            "Every Man On Mars",
+            "Extra Motivation On Mondays",
+            "Every Month Of May"
+        ]
+    },
+    {
+        "question": "Which exercise focuses on building upper body strength?",
+        "category": "Types of Exercises",
+        "answer": "Pull-up",
+        "choices": [
+            "Squat",
+            "Pull-up",
+            "Deadlift",
+            "Run"
+        ]
+    },
+    {
+        "question": "What does AMRAP stand for?",
+        "category": "Abbreviation",
+        "answer": "As Many Reps As Possible",
+        "choices": [
+            "As Many Reps As Possible",
+            "As Many Rounds As Possible",
+            "As Many Runs As Possible",
+            "Average Max Reps And Power"
+        ]
+    },
+    {
+        "question": "CrossFit was founded in the 1970s.",
+        "category": "Basic Knowledge",
+        "answer": "False",
+        "choices": [
+            "True",
+            "False"
+        ]
+    }
+]
